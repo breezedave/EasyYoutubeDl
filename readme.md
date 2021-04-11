@@ -1,5 +1,6 @@
 # Easy Youtube Downloader
 
-``` npm start <<youtube video id>> ```
+``` npm start <<youtube video id>> ``` Will get you best quality video
+``` npm start <<youtube audio id>> audio ``` Will get you best quality audio
 
-require ffmpeg.exe be installed and stored in your path env variable
+Requires ffmpeg.exe be installed and stored in your path env variable
